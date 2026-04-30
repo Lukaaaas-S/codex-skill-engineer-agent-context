@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineer Agent Context"
+  short_description: "Manage agent context and memory"
+  default_prompt: "Use $engineer-agent-context to design context handling for a long-running agent task."
